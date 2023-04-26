@@ -1,0 +1,5 @@
+baseURL = 'http://poorlymadepoint.com/'
+languageCode = 'en-us'
+title = 'Poorly Made Point'
+theme = 'mini'
+
