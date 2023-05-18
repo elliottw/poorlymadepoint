@@ -6,6 +6,7 @@
     <description>Recent content in review on Poorly Made Point</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>2021</copyright>
     <lastBuildDate>Mon, 29 Mar 2021 15:08:59 -0500</lastBuildDate><atom:link href="http://poorlymadepoint.com/tags/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Star Trek Picard: Review</title>
@@ -14,6 +15,9 @@
       
       <guid>http://poorlymadepoint.com/posts/star-trek-picard-review/</guid>
       <description>Old man seeks revenge for the death of cute young girl. Old man finds out that cute young girl is robot. Old man kills dozens of innocent people to save robot. Great.</description>
+      <content>&lt;p&gt;
+Old man seeks revenge for the death of cute young girl. Old man finds out that cute young girl is robot. Old man kills dozens of innocent people to save robot. Great.&lt;/p&gt;
+</content>
     </item>
     
   </channel>
