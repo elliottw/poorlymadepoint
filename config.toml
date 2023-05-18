@@ -1,4 +1,4 @@
-baseURL = 'http://poorlymadepoint.com/'
+baseURL = 'https://poorlymadepoint.com/'
 languageCode = 'en-us'
 title = 'Poorly Made Point'
 theme = 'terminal'
