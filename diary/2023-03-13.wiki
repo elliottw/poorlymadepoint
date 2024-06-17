@@ -1,6 +1,6 @@
 = SVB Folds and the Wealthy Mask Generational Wealth as Wages =
 
-Mark Cuban: [It's not the wealthy taking the hit.](https://fortune.com/2023/03/11/mark-cuban-fed-buy-silicon-valley-bank-debt-immediately-not-wealthy-taking-hit/)
+Mark Cuban: [[https://fortune.com/2023/03/11/mark-cuban-fed-buy-silicon-valley-bank-debt-immediately-not-wealthy-taking-hit/|It's not the wealthy taking the hit.]]
 
 I've seen a lot of articles where rich people (aka investors) are saying that the govt needs to rescue Silicon Valley Bank, otherwise a lot of poor people (aka people who work) will suffer far more than the rich people making these claims. At first glance, this seems to make sense. Rich people are rich, they'll always be rich and most of their money isn't in a bank anyway. Poor people work for a living and if companies collapse without cash, or even skip payroll for a month or two, poor people will at best miss a paycheck and at worst lose their job. Losing a job on the surface seems way worse than losing 5 percent of your 10s of billions, but there are a few problems with this way of thinking.
 
