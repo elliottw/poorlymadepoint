@@ -1,5 +1,5 @@
 = Poorly Made Point =
 
 A place for half-baked claims and ideas.
-
+ 
 [[diary/diary|posts]]
