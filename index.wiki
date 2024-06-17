@@ -1,1 +1,5 @@
 = Poorly Made Point =
+
+
+
+[[diary/diary|posts]]
