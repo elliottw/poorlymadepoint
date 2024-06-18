@@ -2,4 +2,4 @@
 
 A place for half-baked claims and ideas.
  
-[[diary/diary|posts]]
+* [[diary/diary|posts]]
